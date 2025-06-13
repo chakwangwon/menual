@@ -1,0 +1,69 @@
+풀스텍 
+프론트 개발 환경 구축 
+visual studio code 설치 
+:HTML5,css3,Javascript,React 코딩 에디터
+
+visual studio code download
+
+https://www.w3schools.com/ 참고용사이트
+
+mdn 서치
+https://developer.mozilla.org/ko/ 
+--> HTML
+-->css
+-->Javascript
+-->React 
+
+** visual studio code extension tip 정리 ** 
+----확장팩 설치--
+	Korean : 한국언어 팩설치
+            Auto Close Tag
+	Auto Rename Tag
+	Color Highlight  
+	CSS Peek
+	indent-rainbow
+	IntelliSense for CSS class names in HTML
+	Live Server
+	Path Intellisense
+	Material Icon Theme
+	- HTML CSS Support : 선택자 자동완성. 첫자 코딩후
+	- html to css autocompletion : 선택자 자동완성기능
+	- Open in Browser : 웹브라우저 열기(ALT + B)
+	- Material Theme : white and black
+	- Prettier ​- Code formatter
+		ctrl + , - setting
+		 indent number 2 setting
+                         default formatter  --> Prettier ​- Code formatter 사용
+                         format ON save 검색 체크
+
+                       
+	​- Indent Rainbow  : 들여쓰기 색상구분효과
+            - ESLint
+
+--확장팩 설치 끝
+​
+---------------------------------------------------------------------------------------
+
+- Live Server
+
+- Markdown Preview(내장)
+
+- emmet(내장)
+
+online editor site
+
+jsbin.com
+
+jsfiddle.net
+
+codesandbox.io
+
+​vs code 완전제거 : 기능이상일 경우
+
+
+백앤드 :mysql, java, Spring Boot
+
+클라우드 서비스 사업자 중 
+아마존  : aws 에 배포 
+
+생활코딩 html 영상검색보기

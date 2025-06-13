@@ -1,0 +1,19 @@
+
+https://spring.io/
+
+
+Projects -->
+Spring Tools for Eclipse 다운로드
+
+데이터베이스 
+https://btcd.tistory.com/54
+
+https://dream-coding.tistory.com/43
+
+데이터베이스관리자 :DBA
+
+https://dbeaver.io/download/  윈도용 다운 
+
+데이터베이스 메뉴 클릭 
+새데이터--> mysql ->> driver properties 설정
+allowPublicKeyRetrieval -->true

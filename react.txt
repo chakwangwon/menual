@@ -1,0 +1,49 @@
+node.js 설치
+node -v
+yarn --version
+cmd 모두에서 추가 
+npm install --global yarn
+
+비쥬얼 스큐디오 
+확장팩 
+Reactjs code snippets 설치 
+Open Browser Preview 설치
+
+https://ko.legacy.reactjs.org/docs/create-a-new-react-app.html
+Create React App 
+
+새폴더 
+Lecture>react-app 생성
+터널모드
+npm --version
+npm uninstall - g creacte-react-app
+npx create-react-app .  실행
+
+npm start
+npm run build -->배포버전
+npm install -g serve  배포인스톨 
+serve -s build  배포실행
+
+
+npm install react-router-dom 추가 설치
+
+npm install styled-components 추가 설치
+
+
+https://react-redux.js.org/ 
+get start 클릭
+npm install redux react-redux 설치
+
+https://redux-toolkit.js.org/
+npm install @reduxjs/toolkit 설치
+
+
+npx create-next-app my-next-app 실행
+npx create-next-app@latest my-next-app (최신버전)
+√ Would you like to use TypeScript? ... No / Yes
+√ Would you like to use ESLint? ... No / Yes
+√ Would you like to use Tailwind CSS? ... No / Yes
+√ Would you like your code inside a `src/` directory? ... No / Yes
+√ Would you like to use App Router? (recommended) ... No / Yes
+√ Would you like to use Turbopack for `next dev`? ... No / Yes
+√ Would you like to customize the import alias (`@/*` by default)? ... No / Yes 

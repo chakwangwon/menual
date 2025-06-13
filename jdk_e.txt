@@ -1,0 +1,59 @@
+김재형 강사 
+010-8306-6725
+newcomsa@nate.com
+-선수과정: 처음/온라인 수강
+-전공:
+https://cafe.naver.com/docjava1
+
+https://velog.io/@dankj1991/1JavaIDESetting
+
+JDK 17 다운로드
+OpenJDK 17 다운로드
+jdk 버전 정리
+
+-컴파일 --전체 실행
+-인터프린터 --문단위 실행
+
+
+고급시스템설정 -> 환경변수-> 시스템변수 - 새로만들기
+JAVA_HOME C:\Program Files\Java\jdk-17
+
+고급시스템설정 -> 환경변수-> 시스템변수 - path ->편집 
+path  C:\Program Files\Common Files\Oracle\Java\javapath
+%JAVA_HOME%\bin --추가
+
+CLASSPATH %JAVA_HOME%\lib --추가
+
+cmd
+javac -version
+java -version
+
+메모장  .java 파일생성 (기계어 즉  바이트코드 생성)
+cmd 모드 
+1.javac *java  class 파일생성 
+2.java * 파일 실행 
+
+
+https://www.eclipse.org/downloads/
+-->Eclipse IDE for Enterprise Java and Web Developers  (자바+웹) 다운 2025-03-R
+
+
+이클립스 인코딩설정 
+https://peachcong.tistory.com/49
+인코딩
+content Tapes --
+j c f ->UTF-8
+text ->UTF-8
+text -> j p f  ->UTF-8
+
+workspace ->UTF-8
+
+이클립스 jdk설정
+java -->컴파일  17
+
+ 
+
+new
+프로그램명 생성  ex) study01
+
+new class 생성   ex) HelloWorld
